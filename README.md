@@ -131,6 +131,6 @@ Based on this analysis:
 - Use historical trends to forecast demand and optimize inventory before peak seasons.
 
 ### Dashboard Preview
-[View the Dashboard](./dashboard.png)
+[View the Dashboard](./Dashboard.pdf)
 Explore the interactive and dynamic dashboard in Power BI here.
 
