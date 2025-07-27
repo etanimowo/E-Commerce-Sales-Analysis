@@ -7,6 +7,7 @@
 - [Create Pivot Tables](#create-pivot-tables)
 - [Key Insights](#key-insights)
 - [Actionable Recommendations](#actionable-recommendations)
+- [Dashboard Preview](#dashboard-preview)
 
 ### The Problem
 In a competitive e-commerce landscape, businesses struggle to understand which products perform best, how customer behavior evolves, and which regions or strategies yield the highest return. Without actionable data insights, decisions around inventory, marketing, and customer retention are often based on guesswork.
@@ -129,4 +130,7 @@ Based on this analysis:
 - Leverage top-selling products in advertisements and cross-selling opportunities.
 - Use historical trends to forecast demand and optimize inventory before peak seasons.
 
+### Dashboard Preview
+[View the Dashboard](./dashboard.png)
+Explore the interactive and dynamic dashboard in Power BI here.
 
