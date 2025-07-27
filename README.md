@@ -33,7 +33,7 @@ Through detailed exploratory data analysis (EDA), the project aims to highlight 
 ---
 ### Import and Clean Data
 #### In Excel:
-I loaded the ecommerce.csv file into Excel.
+I loaded the [ecommerce.csv](./ecommerce.csv) file into Excel.
 
 <img width="602" height="322" alt="ecommerce screenshot raw" src="https://github.com/user-attachments/assets/c53b891d-5d1d-494e-96f5-417b5039b794" />
 
