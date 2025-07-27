@@ -1,13 +1,12 @@
 ## E-Commerce-Sales-Analysis
 ## Table of Content
--[The Problem](#the-problem)
--[objectives](#objectives)
--[Import and Clean Data](#import-and-clean-data)
--[Create Pivot Table](#create-pivot-table)
--[Key Insights](#keys-insights)
--[Actionable Recommendations](#actionable-recommendations)
-
-### Project Title: “Analyzing E-Commerce Sales Performance to Drive Strategic Decisions”
+- [The Problem](#the-problem)
+- [Objectives](#objectives)
+- [Tools Used](#tools-used)
+- [Import and Clean Data](#import-and-clean-data)
+- [Create Pivot Tables](#create-pivot-tables)
+- [Key Insights](#key-insights)
+- [Actionable Recommendations](#actionable-recommendations)
 
 ### The Problem
 In a competitive e-commerce landscape, businesses struggle to understand which products perform best, how customer behavior evolves, and which regions or strategies yield the highest return. Without actionable data insights, decisions around inventory, marketing, and customer retention are often based on guesswork.
@@ -21,6 +20,12 @@ In this project, l explore the e-commerce transactional dataset to analyze custo
 - Provide strategic recommendations to improve revenue, retention, and marketing efforts
 
 Through detailed exploratory data analysis (EDA), the project aims to highlight high-performing product segments, seasonal sales trends, and payment preferences. By using Excel for pivot-based EDA and Power BI for interactive dashboards, this project demonstrates both spreadsheet-based analysis and modern data visualization capabilities suitable for business intelligence roles.
+
+### Tools Used
+- Microsoft Excel – Data cleaning, pivot tables, basic visualizations
+- Power BI – Interactive dashboard development and advanced analytics
+- DAX – KPI measures (Revenue, AOV, Orders/Customer)
+
 
 ### Import and Clean Data
 #### In Excel:
@@ -56,7 +61,7 @@ In Power BI, l used the Power Query to:
 <br></br>
 <img width="476" height="254" alt="power bi cleaning2" src="https://github.com/user-attachments/assets/e293bb1b-c338-4162-a6cb-f0f78cd8d59c" />
 
-### Create Pivot Tables (Excel) 
+### Create Pivot Tables 
 #### In Excel
 l created:
 
@@ -81,7 +86,7 @@ Key metrics are calculated as follows using New Measure:
 
 <img width="602" height="319" alt="power bi measure" src="https://github.com/user-attachments/assets/3eb54abb-ed37-4ff1-a2c8-b9147c7cd5eb" />
 
-### Key Insights
+#### Key Insights
 1. Total Revenue Generated:  £463,900.97
    
 <img width="192" height="151" alt="card total revenue" src="https://github.com/user-attachments/assets/bddb979c-a2b8-494b-82aa-70689e42dd7d" />
@@ -114,7 +119,7 @@ Jeans, Laptop, Jacket, Blender, Phone
 
 <img width="265" height="164" alt="region" src="https://github.com/user-attachments/assets/ac2465d4-1e78-45e8-9568-734359157303" />
 
-#### Actionable Recommendations
+### Actionable Recommendations
 Based on this analysis:
 
 - Focus on top-performing categories e.g. Clothing & Electronics for future promotions and bundling.
