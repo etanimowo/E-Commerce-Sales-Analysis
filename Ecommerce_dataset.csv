@@ -1,0 +1,751 @@
+OrderID,CustomerID,OrderDate,Category,Product,Quantity,Price,PaymentMethod,Region
+O0001,C015,29/03/2025,Electronics,Phone,3,400.31,Digital Wallet,South
+O0002,C021,05/09/2024,Clothing,T-Shirt,3,392.05,Credit Card,North
+O0003,C215,02/08/2024,Toys,Board Game,3,228.46,Credit Card,North
+O0004,C117,07/05/2025,Electronics,Phone,3,235.03,PayPal,North
+O0005,C131,07/11/2024,Toys,Puzzle,4,80,Bank Transfer,South
+O0006,C088,27/10/2024,Books,Comics,2,37.64,Digital Wallet,North
+O0007,C130,18/10/2024,Clothing,Jacket,4,469.89,Bank Transfer,East
+O0008,C161,16/09/2024,Home & Kitchen,Blender,4,496.18,PayPal,East
+O0009,C236,06/05/2025,Electronics,Phone,4,309.71,Bank Transfer,North
+O0010,C059,01/09/2024,Home & Kitchen,Cookware Set,1,152.7,Digital Wallet,North
+O0011,C220,12/04/2025,Books,Comics,3,78.35,Credit Card,West
+O0012,C190,07/05/2025,Electronics,Headphones,4,189.52,Digital Wallet,East
+O0013,C051,05/07/2025,Toys,Puzzle,2,394.74,Credit Card,North
+O0014,C064,20/02/2025,Clothing,Jeans,4,261.97,Credit Card,South
+O0015,C051,26/08/2024,Electronics,Laptop,1,32.76,Digital Wallet,West
+O0016,C167,10/03/2025,Home & Kitchen,Blender,3,93.56,Digital Wallet,East
+O0017,C060,03/01/2025,Clothing,Jacket,2,474.95,Digital Wallet,North
+O0018,C009,05/08/2024,Toys,Action Figure,2,406.11,PayPal,South
+O0019,C084,04/08/2024,Clothing,Jeans,2,57.86,Bank Transfer,East
+O0020,C199,29/08/2024,Toys,Puzzle,4,225.67,Digital Wallet,North
+O0021,C175,16/10/2024,Clothing,T-Shirt,4,252.64,Digital Wallet,West
+O0022,C164,22/10/2024,Home & Kitchen,Blender,3,455.57,PayPal,East
+O0023,C002,05/02/2025,Clothing,Jacket,2,334.64,Bank Transfer,West
+O0024,C106,14/03/2025,Books,Fiction,2,264.83,Digital Wallet,South
+O0025,C191,03/08/2024,Clothing,Jacket,4,100.58,Digital Wallet,West
+O0026,C162,26/02/2025,Toys,Board Game,2,389.82,Digital Wallet,South
+O0027,C014,09/10/2024,Clothing,Jacket,2,448.47,Bank Transfer,North
+O0028,C200,28/04/2025,Electronics,Phone,3,461.72,PayPal,South
+O0029,C249,02/04/2025,Books,Comics,2,106.03,Credit Card,West
+O0030,C208,22/04/2025,Books,Comics,2,169.41,Bank Transfer,East
+O0031,C053,20/02/2025,Toys,Puzzle,1,142.96,Credit Card,East
+O0032,C188,02/01/2025,Home & Kitchen,Blender,4,184.81,Digital Wallet,West
+O0033,C157,17/10/2024,Clothing,Jeans,4,145.24,Credit Card,East
+O0034,C089,14/01/2025,Toys,Puzzle,3,90.98,Credit Card,East
+O0035,C129,09/03/2025,Toys,Action Figure,3,217.47,PayPal,South
+O0036,C063,09/11/2024,Home & Kitchen,Blender,4,153.81,Credit Card,East
+O0037,C136,03/06/2025,Books,Fiction,3,107.43,Credit Card,East
+O0038,C123,26/06/2025,Home & Kitchen,Blender,3,397.19,Credit Card,South
+O0039,C041,26/07/2024,Toys,Puzzle,1,463.89,Credit Card,West
+O0040,C072,14/05/2025,Electronics,Headphones,4,432.92,PayPal,South
+O0041,C048,01/06/2025,Books,Comics,4,172.14,PayPal,East
+O0042,C216,24/09/2024,Toys,Action Figure,3,162.38,Bank Transfer,South
+O0043,C104,21/04/2025,Toys,Action Figure,1,367.51,PayPal,East
+O0044,C193,04/01/2025,Books,Comics,2,444.73,Digital Wallet,West
+O0045,C206,03/12/2024,Toys,Board Game,3,68.6,Credit Card,South
+O0046,C218,08/11/2024,Clothing,T-Shirt,3,382.78,Digital Wallet,North
+O0047,C103,22/09/2024,Toys,Action Figure,3,387.77,PayPal,South
+O0048,C015,15/10/2024,Electronics,Phone,3,266.14,Credit Card,South
+O0049,C205,16/05/2025,Electronics,Phone,2,22.46,Digital Wallet,North
+O0050,C231,01/12/2024,Toys,Puzzle,3,25.4,Digital Wallet,West
+O0051,C096,01/09/2024,Clothing,Jacket,1,164.03,PayPal,West
+O0052,C151,29/08/2024,Clothing,Jeans,4,454.71,Bank Transfer,South
+O0053,C171,18/12/2024,Electronics,Phone,3,211.09,Bank Transfer,East
+O0054,C160,30/08/2024,Books,Non-fiction,1,122.11,Bank Transfer,North
+O0055,C086,10/12/2024,Electronics,Phone,3,151.98,Bank Transfer,East
+O0056,C045,18/06/2025,Electronics,Phone,4,465.55,PayPal,South
+O0057,C134,04/12/2024,Toys,Board Game,2,320.37,PayPal,West
+O0058,C044,15/03/2025,Clothing,Jeans,4,403.8,Bank Transfer,South
+O0059,C075,03/11/2024,Electronics,Laptop,4,447.35,Credit Card,North
+O0060,C092,02/06/2025,Toys,Puzzle,4,405.65,Credit Card,South
+O0061,C225,09/08/2024,Clothing,Jeans,1,165.82,Bank Transfer,West
+O0062,C190,03/05/2025,Clothing,Jeans,1,121.69,Credit Card,South
+O0063,C233,18/01/2025,Books,Fiction,1,410.83,Bank Transfer,East
+O0064,C200,17/02/2025,Books,Non-fiction,3,13.41,Bank Transfer,West
+O0065,C165,10/09/2024,Clothing,T-Shirt,3,214.53,Digital Wallet,South
+O0066,C172,17/07/2025,Electronics,Headphones,1,68.73,Credit Card,East
+O0067,C118,18/12/2024,Electronics,Phone,4,472.03,Bank Transfer,South
+O0068,C233,23/08/2024,Electronics,Headphones,4,264.21,Credit Card,South
+O0069,C241,23/02/2025,Electronics,Headphones,4,188.18,Credit Card,South
+O0070,C039,14/11/2024,Books,Fiction,2,481.6,PayPal,North
+O0071,C101,11/06/2025,Toys,Puzzle,2,359.01,Bank Transfer,East
+O0072,C187,25/03/2025,Home & Kitchen,Blender,1,498.89,Digital Wallet,South
+O0073,C220,21/03/2025,Home & Kitchen,Cookware Set,1,488.54,PayPal,East
+O0074,C224,02/07/2025,Books,Non-fiction,2,26.19,Credit Card,North
+O0075,C126,23/06/2025,Books,Comics,1,320.83,Credit Card,North
+O0076,C218,11/12/2024,Toys,Puzzle,2,270.16,Digital Wallet,South
+O0077,C247,05/03/2025,Home & Kitchen,Blender,4,280.92,PayPal,East
+O0078,C184,06/10/2024,Home & Kitchen,Blender,4,49.62,Bank Transfer,East
+O0079,C038,23/04/2025,Toys,Action Figure,3,128.66,Credit Card,East
+O0080,C098,20/08/2024,Electronics,Phone,4,240.45,Digital Wallet,North
+O0081,C240,10/08/2024,Electronics,Headphones,2,205.42,PayPal,East
+O0082,C124,06/04/2025,Home & Kitchen,Vacuum Cleaner,4,419.3,PayPal,East
+O0083,C093,20/10/2024,Clothing,Jacket,3,101.39,Digital Wallet,West
+O0084,C187,20/05/2025,Home & Kitchen,Blender,3,299.54,Credit Card,West
+O0085,C195,13/11/2024,Home & Kitchen,Blender,4,18.13,Credit Card,East
+O0086,C096,23/08/2024,Clothing,Jacket,3,120.98,Digital Wallet,South
+O0087,C161,21/06/2025,Books,Comics,3,95.44,Bank Transfer,North
+O0088,C082,22/10/2024,Electronics,Phone,4,199.5,PayPal,North
+O0089,C220,25/06/2025,Home & Kitchen,Vacuum Cleaner,4,77.39,PayPal,West
+O0090,C151,01/09/2024,Clothing,T-Shirt,1,65.6,Digital Wallet,East
+O0091,C099,18/12/2024,Electronics,Laptop,3,439.9,PayPal,South
+O0092,C090,08/11/2024,Electronics,Laptop,3,333.39,Bank Transfer,South
+O0093,C060,16/01/2025,Clothing,T-Shirt,4,282.05,PayPal,West
+O0094,C048,27/03/2025,Electronics,Phone,1,128.51,Digital Wallet,West
+O0095,C037,12/06/2025,Clothing,Jeans,2,449.64,PayPal,North
+O0096,C009,12/12/2024,Books,Fiction,4,320.22,Bank Transfer,South
+O0097,C048,25/09/2024,Clothing,Jeans,1,181.11,Digital Wallet,East
+O0098,C152,14/12/2024,Clothing,T-Shirt,4,449.58,Credit Card,South
+O0099,C152,08/12/2024,Books,Non-fiction,2,392.14,Digital Wallet,North
+O0100,C200,13/10/2024,Home & Kitchen,Cookware Set,4,51.23,Bank Transfer,East
+O0101,C084,10/04/2025,Electronics,Phone,4,450.29,Digital Wallet,South
+O0102,C217,04/11/2024,Toys,Board Game,2,14.51,Credit Card,North
+O0103,C146,22/04/2025,Toys,Board Game,3,487.1,Digital Wallet,East
+O0104,C194,22/07/2025,Books,Comics,4,159.63,Credit Card,West
+O0105,C189,15/04/2025,Toys,Puzzle,2,229.73,Digital Wallet,North
+O0106,C068,01/04/2025,Books,Fiction,1,96.2,PayPal,East
+O0107,C048,20/08/2024,Books,Fiction,1,252.01,Digital Wallet,East
+O0108,C136,17/03/2025,Electronics,Headphones,4,189.57,Digital Wallet,East
+O0109,C128,27/03/2025,Books,Non-fiction,3,363.26,Bank Transfer,East
+O0110,C187,28/09/2024,Toys,Puzzle,1,275.84,PayPal,West
+O0111,C022,16/02/2025,Books,Comics,3,321.8,PayPal,East
+O0112,C230,03/05/2025,Books,Comics,2,299.04,Credit Card,East
+O0113,C008,27/10/2024,Home & Kitchen,Blender,1,248.5,Bank Transfer,East
+O0114,C021,25/09/2024,Books,Non-fiction,3,222.85,Bank Transfer,South
+O0115,C111,19/01/2025,Toys,Board Game,2,326.1,PayPal,North
+O0116,C061,18/12/2024,Home & Kitchen,Vacuum Cleaner,4,433.44,Digital Wallet,North
+O0117,C035,05/11/2024,Clothing,Jacket,4,147.58,Digital Wallet,South
+O0118,C017,18/07/2025,Clothing,T-Shirt,4,326.28,Credit Card,North
+O0119,C221,29/03/2025,Clothing,Jeans,4,470.82,Credit Card,West
+O0120,C099,17/04/2025,Books,Comics,2,458.28,PayPal,West
+O0121,C024,25/02/2025,Books,Non-fiction,4,17.57,PayPal,South
+O0122,C181,17/10/2024,Electronics,Phone,1,219.81,Bank Transfer,South
+O0123,C225,15/04/2025,Clothing,Jacket,3,482.17,Bank Transfer,North
+O0124,C213,26/11/2024,Toys,Puzzle,4,154.28,Credit Card,West
+O0125,C067,16/06/2025,Clothing,Jeans,4,427.06,Digital Wallet,West
+O0126,C234,18/05/2025,Toys,Action Figure,4,192.62,Bank Transfer,West
+O0127,C067,21/05/2025,Clothing,Jacket,3,423.66,Bank Transfer,West
+O0128,C114,14/08/2024,Home & Kitchen,Blender,4,44.5,Digital Wallet,West
+O0129,C151,20/10/2024,Clothing,Jeans,4,338.86,Bank Transfer,North
+O0130,C234,08/06/2025,Home & Kitchen,Blender,2,134.54,Digital Wallet,East
+O0131,C104,05/08/2024,Home & Kitchen,Vacuum Cleaner,2,168.05,Credit Card,South
+O0132,C246,01/06/2025,Clothing,T-Shirt,1,76.94,Bank Transfer,South
+O0133,C170,23/11/2024,Clothing,T-Shirt,4,280.88,Bank Transfer,West
+O0134,C050,26/12/2024,Home & Kitchen,Vacuum Cleaner,3,215.69,Bank Transfer,West
+O0135,C060,04/11/2024,Electronics,Phone,1,309.64,Bank Transfer,West
+O0136,C036,18/08/2024,Toys,Action Figure,2,12.54,Credit Card,West
+O0137,C008,13/10/2024,Books,Fiction,1,105.19,Digital Wallet,East
+O0138,C142,13/07/2025,Books,Non-fiction,4,204.42,PayPal,West
+O0139,C143,01/03/2025,Clothing,Jeans,4,444.44,Bank Transfer,West
+O0140,C032,29/06/2025,Electronics,Laptop,4,293.64,Digital Wallet,West
+O0141,C051,28/04/2025,Clothing,Jeans,3,339.29,PayPal,North
+O0142,C190,23/11/2024,Books,Comics,1,85.97,Credit Card,North
+O0143,C058,14/10/2024,Books,Fiction,1,421.08,Bank Transfer,South
+O0144,C170,04/04/2025,Electronics,Laptop,2,132.62,Bank Transfer,East
+O0145,C235,02/02/2025,Clothing,Jeans,2,158.6,Digital Wallet,East
+O0146,C008,24/12/2024,Books,Non-fiction,4,170.06,Bank Transfer,East
+O0147,C108,02/07/2025,Electronics,Laptop,1,143.06,Credit Card,North
+O0148,C006,14/07/2025,Home & Kitchen,Blender,1,234.06,Credit Card,North
+O0149,C094,30/03/2025,Electronics,Phone,1,105.25,PayPal,North
+O0150,C168,18/01/2025,Toys,Puzzle,3,352.76,PayPal,South
+O0151,C114,17/09/2024,Books,Comics,4,75.05,Credit Card,South
+O0152,C147,03/11/2024,Books,Comics,4,360.15,Digital Wallet,East
+O0153,C019,16/09/2024,Clothing,Jacket,1,205.42,Credit Card,South
+O0154,C090,27/10/2024,Home & Kitchen,Blender,4,374.58,Credit Card,East
+O0155,C062,09/05/2025,Toys,Action Figure,1,100.32,Bank Transfer,West
+O0156,C140,27/02/2025,Clothing,T-Shirt,3,219.87,PayPal,North
+O0157,C122,18/02/2025,Home & Kitchen,Vacuum Cleaner,1,38.51,Credit Card,North
+O0158,C096,03/11/2024,Home & Kitchen,Vacuum Cleaner,1,226.75,Bank Transfer,East
+O0159,C089,10/05/2025,Electronics,Headphones,2,56,Digital Wallet,North
+O0160,C129,08/03/2025,Books,Non-fiction,4,467.96,Credit Card,West
+O0161,C192,06/01/2025,Home & Kitchen,Vacuum Cleaner,4,263.18,Bank Transfer,South
+O0162,C093,07/07/2025,Books,Fiction,3,223.48,Digital Wallet,West
+O0163,C154,07/03/2025,Books,Non-fiction,3,33.38,Digital Wallet,East
+O0164,C086,26/12/2024,Clothing,T-Shirt,4,87.74,Digital Wallet,West
+O0165,C220,11/12/2024,Clothing,Jeans,1,177.52,Bank Transfer,East
+O0166,C094,17/10/2024,Electronics,Laptop,1,56.14,Digital Wallet,South
+O0167,C197,15/09/2024,Books,Fiction,2,489.96,Digital Wallet,East
+O0168,C218,06/02/2025,Home & Kitchen,Cookware Set,4,18.41,Digital Wallet,North
+O0169,C100,31/01/2025,Toys,Puzzle,4,405.39,Credit Card,South
+O0170,C101,28/08/2024,Books,Non-fiction,1,237.69,PayPal,West
+O0171,C246,13/05/2025,Books,Non-fiction,3,33.55,Credit Card,North
+O0172,C180,11/08/2024,Home & Kitchen,Blender,1,444.47,Bank Transfer,South
+O0173,C147,23/06/2025,Home & Kitchen,Vacuum Cleaner,3,17.5,Digital Wallet,West
+O0174,C248,04/09/2024,Toys,Action Figure,2,255.51,Digital Wallet,West
+O0175,C016,21/09/2024,Toys,Board Game,1,345.14,Digital Wallet,West
+O0176,C002,24/03/2025,Home & Kitchen,Cookware Set,4,472.51,Digital Wallet,South
+O0177,C160,24/09/2024,Electronics,Headphones,1,434.93,PayPal,East
+O0178,C140,27/05/2025,Electronics,Headphones,3,402.47,PayPal,South
+O0179,C033,14/04/2025,Clothing,Jacket,2,290.95,Bank Transfer,East
+O0180,C171,03/01/2025,Toys,Action Figure,1,407.49,Digital Wallet,North
+O0181,C065,12/03/2025,Clothing,Jeans,1,316.71,PayPal,East
+O0182,C043,17/08/2024,Clothing,Jeans,1,329.23,Credit Card,South
+O0183,C012,20/12/2024,Home & Kitchen,Blender,4,144.24,Credit Card,East
+O0184,C243,19/12/2024,Clothing,Jacket,3,194.86,Bank Transfer,North
+O0185,C081,12/03/2025,Electronics,Headphones,2,344.67,Digital Wallet,West
+O0186,C154,21/01/2025,Books,Non-fiction,2,166.3,Digital Wallet,South
+O0187,C162,14/02/2025,Electronics,Laptop,2,21.4,Bank Transfer,North
+O0188,C196,29/10/2024,Electronics,Laptop,3,148.11,Bank Transfer,North
+O0189,C237,23/02/2025,Toys,Action Figure,2,351.4,Credit Card,South
+O0190,C164,23/06/2025,Clothing,Jacket,3,439.96,Digital Wallet,North
+O0191,C249,28/07/2024,Clothing,T-Shirt,1,403.71,Bank Transfer,South
+O0192,C201,14/04/2025,Toys,Board Game,4,96.95,Bank Transfer,West
+O0193,C177,29/04/2025,Home & Kitchen,Vacuum Cleaner,4,405.35,Bank Transfer,East
+O0194,C210,06/09/2024,Toys,Action Figure,3,212.18,Credit Card,North
+O0195,C152,14/04/2025,Clothing,Jacket,1,390.44,PayPal,East
+O0196,C037,02/07/2025,Electronics,Phone,3,466.07,PayPal,South
+O0197,C013,17/02/2025,Toys,Puzzle,4,220.21,PayPal,North
+O0198,C105,11/05/2025,Books,Non-fiction,3,379.73,Bank Transfer,East
+O0199,C062,04/11/2024,Electronics,Phone,2,452.25,Digital Wallet,East
+O0200,C086,18/05/2025,Books,Fiction,4,414.96,PayPal,East
+O0201,C177,29/03/2025,Toys,Action Figure,1,448.81,PayPal,West
+O0202,C233,03/12/2024,Electronics,Headphones,4,15.31,PayPal,South
+O0203,C199,05/09/2024,Home & Kitchen,Blender,3,54.73,Credit Card,North
+O0204,C128,14/11/2024,Clothing,Jeans,4,475.53,Digital Wallet,West
+O0205,C111,08/01/2025,Electronics,Laptop,4,290.98,Digital Wallet,West
+O0206,C099,23/09/2024,Home & Kitchen,Vacuum Cleaner,4,229.74,Bank Transfer,West
+O0207,C123,16/01/2025,Electronics,Headphones,4,171.05,Credit Card,West
+O0208,C151,25/07/2024,Home & Kitchen,Vacuum Cleaner,1,378.66,Digital Wallet,North
+O0209,C109,30/04/2025,Electronics,Phone,4,396.91,Credit Card,East
+O0210,C167,29/06/2025,Toys,Puzzle,1,252.27,PayPal,West
+O0211,C133,29/04/2025,Toys,Action Figure,2,279.27,Bank Transfer,East
+O0212,C235,03/11/2024,Clothing,Jacket,3,444.98,Bank Transfer,West
+O0213,C076,03/02/2025,Electronics,Laptop,3,67.36,Digital Wallet,West
+O0214,C236,15/05/2025,Home & Kitchen,Cookware Set,1,383.14,Credit Card,South
+O0215,C007,01/10/2024,Home & Kitchen,Cookware Set,1,59.55,Bank Transfer,East
+O0216,C170,06/02/2025,Books,Comics,2,353.47,Credit Card,West
+O0217,C122,13/07/2025,Electronics,Laptop,1,412.71,Digital Wallet,East
+O0218,C165,03/09/2024,Electronics,Laptop,2,49.86,Credit Card,West
+O0219,C240,27/06/2025,Books,Fiction,2,493.45,PayPal,East
+O0220,C244,23/03/2025,Toys,Board Game,1,191.61,Bank Transfer,North
+O0221,C217,16/11/2024,Clothing,Jeans,1,474.15,PayPal,East
+O0222,C070,15/06/2025,Books,Comics,1,379.16,Bank Transfer,North
+O0223,C189,29/03/2025,Electronics,Headphones,4,50.92,PayPal,South
+O0224,C091,06/02/2025,Home & Kitchen,Vacuum Cleaner,4,283.62,Credit Card,West
+O0225,C039,17/03/2025,Electronics,Phone,2,454.11,Credit Card,West
+O0226,C141,09/10/2024,Electronics,Headphones,2,251.39,PayPal,West
+O0227,C058,21/09/2024,Home & Kitchen,Vacuum Cleaner,2,239.64,Digital Wallet,West
+O0228,C061,16/12/2024,Books,Non-fiction,4,68.22,PayPal,West
+O0229,C001,16/05/2025,Toys,Puzzle,3,328.11,Bank Transfer,South
+O0230,C190,24/09/2024,Toys,Action Figure,3,295.85,PayPal,North
+O0231,C113,18/02/2025,Home & Kitchen,Cookware Set,1,193.69,Digital Wallet,East
+O0232,C166,22/05/2025,Electronics,Laptop,1,435.61,Digital Wallet,West
+O0233,C044,17/07/2025,Clothing,Jeans,1,481.98,Bank Transfer,East
+O0234,C061,14/02/2025,Home & Kitchen,Vacuum Cleaner,1,485.24,Bank Transfer,West
+O0235,C118,15/07/2025,Home & Kitchen,Blender,3,446.66,PayPal,West
+O0236,C229,24/07/2024,Clothing,Jeans,1,496.55,Credit Card,East
+O0237,C020,13/03/2025,Books,Comics,4,281.39,Bank Transfer,West
+O0238,C233,26/11/2024,Clothing,Jeans,1,266.32,Credit Card,South
+O0239,C159,29/01/2025,Toys,Action Figure,1,350.92,Digital Wallet,North
+O0240,C118,31/07/2024,Books,Fiction,1,317.5,Bank Transfer,North
+O0241,C185,05/09/2024,Clothing,Jeans,3,451.57,PayPal,North
+O0242,C224,19/07/2025,Books,Non-fiction,3,147.67,Digital Wallet,West
+O0243,C204,11/12/2024,Electronics,Laptop,4,446.23,Bank Transfer,East
+O0244,C008,30/06/2025,Books,Comics,4,313.86,Credit Card,North
+O0245,C090,11/06/2025,Clothing,Jacket,2,102.18,Digital Wallet,South
+O0246,C178,02/06/2025,Electronics,Laptop,4,183.14,Credit Card,North
+O0247,C041,20/11/2024,Books,Fiction,4,48.09,Digital Wallet,North
+O0248,C246,24/10/2024,Electronics,Laptop,4,493.24,Credit Card,East
+O0249,C161,15/08/2024,Home & Kitchen,Cookware Set,3,272.69,Bank Transfer,South
+O0250,C220,25/10/2024,Clothing,Jacket,1,408.76,Bank Transfer,South
+O0251,C046,29/06/2025,Clothing,T-Shirt,4,89.68,Credit Card,West
+O0252,C082,01/03/2025,Toys,Action Figure,3,413.04,PayPal,West
+O0253,C047,23/08/2024,Toys,Puzzle,3,365.6,PayPal,West
+O0254,C056,26/08/2024,Home & Kitchen,Cookware Set,1,214.94,Digital Wallet,North
+O0255,C109,04/05/2025,Books,Non-fiction,2,434.37,PayPal,North
+O0256,C033,28/01/2025,Books,Non-fiction,1,22.92,Digital Wallet,West
+O0257,C224,05/06/2025,Home & Kitchen,Cookware Set,2,407.17,Digital Wallet,South
+O0258,C085,19/08/2024,Books,Non-fiction,3,83.7,Credit Card,South
+O0259,C086,15/05/2025,Books,Comics,2,196.64,Digital Wallet,East
+O0260,C205,15/02/2025,Home & Kitchen,Blender,3,422.64,Bank Transfer,East
+O0261,C099,17/05/2025,Electronics,Headphones,1,239.66,Credit Card,West
+O0262,C240,10/09/2024,Home & Kitchen,Blender,3,143.97,Digital Wallet,South
+O0263,C209,11/09/2024,Clothing,Jacket,3,433.71,Digital Wallet,South
+O0264,C102,06/04/2025,Electronics,Headphones,1,499.86,Credit Card,East
+O0265,C229,24/01/2025,Books,Fiction,3,282.16,Digital Wallet,South
+O0266,C202,22/02/2025,Electronics,Laptop,1,472.94,Digital Wallet,West
+O0267,C078,26/09/2024,Clothing,T-Shirt,3,131.2,PayPal,East
+O0268,C051,03/11/2024,Toys,Action Figure,1,73.29,Digital Wallet,South
+O0269,C190,13/02/2025,Home & Kitchen,Cookware Set,1,307.03,Digital Wallet,East
+O0270,C032,27/06/2025,Electronics,Laptop,1,339.13,Credit Card,South
+O0271,C072,16/03/2025,Clothing,Jacket,2,185.5,Bank Transfer,East
+O0272,C162,04/01/2025,Electronics,Laptop,3,339.07,Credit Card,East
+O0273,C123,14/10/2024,Toys,Puzzle,2,388.44,Bank Transfer,East
+O0274,C054,19/07/2025,Home & Kitchen,Vacuum Cleaner,2,427.57,Bank Transfer,East
+O0275,C222,18/02/2025,Electronics,Headphones,4,284.86,PayPal,West
+O0276,C112,13/05/2025,Electronics,Headphones,3,207.71,Digital Wallet,South
+O0277,C207,03/05/2025,Electronics,Headphones,3,24.1,Bank Transfer,East
+O0278,C066,17/04/2025,Books,Fiction,1,313.95,PayPal,North
+O0279,C166,10/10/2024,Electronics,Laptop,3,114.35,Bank Transfer,North
+O0280,C038,26/04/2025,Electronics,Phone,4,17.13,PayPal,West
+O0281,C030,22/11/2024,Books,Non-fiction,2,299.06,Bank Transfer,South
+O0282,C191,25/12/2024,Books,Comics,3,224.36,Credit Card,West
+O0283,C166,10/04/2025,Toys,Board Game,2,180.65,Digital Wallet,North
+O0284,C030,02/04/2025,Home & Kitchen,Blender,1,393.99,Bank Transfer,West
+O0285,C081,16/12/2024,Clothing,Jeans,3,266.57,Credit Card,East
+O0286,C138,10/01/2025,Toys,Action Figure,1,400.27,Digital Wallet,North
+O0287,C017,08/07/2025,Books,Non-fiction,4,422.62,PayPal,North
+O0288,C069,10/02/2025,Books,Fiction,4,42.46,PayPal,North
+O0289,C194,15/01/2025,Electronics,Laptop,2,314.19,PayPal,South
+O0290,C043,08/09/2024,Toys,Puzzle,1,112.47,Credit Card,South
+O0291,C111,28/10/2024,Toys,Puzzle,4,177.37,PayPal,East
+O0292,C080,19/10/2024,Clothing,Jacket,1,235.46,Credit Card,East
+O0293,C144,17/08/2024,Clothing,T-Shirt,3,206.15,Digital Wallet,South
+O0294,C132,02/12/2024,Electronics,Headphones,4,98.23,Credit Card,South
+O0295,C096,01/08/2024,Electronics,Laptop,4,211.71,PayPal,East
+O0296,C160,09/03/2025,Electronics,Phone,3,262.47,Digital Wallet,North
+O0297,C051,24/02/2025,Clothing,Jacket,2,304.95,Bank Transfer,North
+O0298,C210,21/10/2024,Electronics,Laptop,3,412.68,Bank Transfer,East
+O0299,C022,09/03/2025,Toys,Action Figure,4,180.33,Credit Card,West
+O0300,C133,17/10/2024,Toys,Puzzle,1,278.87,Credit Card,East
+O0301,C046,26/07/2024,Books,Comics,1,184.44,Credit Card,North
+O0302,C218,20/08/2024,Books,Non-fiction,2,73.09,Bank Transfer,North
+O0303,C026,24/04/2025,Books,Comics,1,167.58,Bank Transfer,North
+O0304,C214,26/03/2025,Electronics,Laptop,1,245.76,PayPal,North
+O0305,C107,15/08/2024,Clothing,Jeans,3,260.71,Digital Wallet,West
+O0306,C081,20/10/2024,Toys,Action Figure,3,194.87,Digital Wallet,West
+O0307,C008,19/08/2024,Toys,Action Figure,2,435.47,Bank Transfer,North
+O0308,C180,10/07/2025,Electronics,Headphones,1,302.67,PayPal,West
+O0309,C056,05/08/2024,Books,Fiction,3,272.93,Bank Transfer,East
+O0310,C028,22/06/2025,Books,Non-fiction,2,125.7,Bank Transfer,North
+O0311,C130,29/11/2024,Home & Kitchen,Cookware Set,3,270.32,Digital Wallet,East
+O0312,C187,20/08/2024,Home & Kitchen,Blender,1,40.55,Bank Transfer,North
+O0313,C003,08/02/2025,Electronics,Phone,4,75.23,Credit Card,West
+O0314,C107,24/10/2024,Electronics,Headphones,3,423.78,Digital Wallet,South
+O0315,C018,09/11/2024,Toys,Puzzle,3,24.93,Digital Wallet,North
+O0316,C115,09/04/2025,Books,Non-fiction,2,183.53,Bank Transfer,North
+O0317,C119,28/01/2025,Home & Kitchen,Vacuum Cleaner,3,61.39,Digital Wallet,East
+O0318,C039,15/10/2024,Electronics,Headphones,1,99.32,PayPal,South
+O0319,C086,18/02/2025,Books,Fiction,1,421.95,Credit Card,East
+O0320,C025,13/09/2024,Toys,Board Game,2,272.31,Credit Card,East
+O0321,C025,30/04/2025,Toys,Puzzle,1,178.03,Bank Transfer,North
+O0322,C233,22/07/2025,Toys,Action Figure,4,184,Digital Wallet,North
+O0323,C228,01/07/2025,Clothing,Jeans,1,245,Digital Wallet,East
+O0324,C111,02/03/2025,Home & Kitchen,Blender,3,371.04,PayPal,South
+O0325,C236,04/03/2025,Toys,Action Figure,4,297.4,Bank Transfer,North
+O0326,C101,23/01/2025,Clothing,Jacket,3,195.6,Credit Card,North
+O0327,C064,26/10/2024,Toys,Puzzle,2,450.83,Bank Transfer,West
+O0328,C059,24/05/2025,Books,Non-fiction,2,129.73,PayPal,East
+O0329,C121,23/01/2025,Home & Kitchen,Vacuum Cleaner,1,171.87,Digital Wallet,North
+O0330,C021,02/06/2025,Electronics,Phone,1,13.69,PayPal,North
+O0331,C112,29/12/2024,Electronics,Laptop,2,189.02,Bank Transfer,West
+O0332,C190,05/10/2024,Books,Comics,4,426.9,Bank Transfer,West
+O0333,C152,29/08/2024,Home & Kitchen,Blender,2,404.87,Credit Card,East
+O0334,C131,30/08/2024,Books,Fiction,3,422.73,Digital Wallet,West
+O0335,C229,05/04/2025,Toys,Action Figure,3,18.94,Digital Wallet,North
+O0336,C006,07/01/2025,Clothing,Jeans,4,498.66,Credit Card,North
+O0337,C075,08/12/2024,Clothing,Jeans,2,292.24,PayPal,South
+O0338,C118,04/01/2025,Home & Kitchen,Cookware Set,4,12.6,Digital Wallet,North
+O0339,C230,30/12/2024,Electronics,Laptop,1,250.47,Bank Transfer,South
+O0340,C194,21/01/2025,Clothing,Jeans,3,412.22,PayPal,East
+O0341,C026,24/06/2025,Electronics,Laptop,3,272.17,Credit Card,West
+O0342,C133,03/05/2025,Electronics,Laptop,3,420.91,Credit Card,East
+O0343,C068,14/08/2024,Toys,Board Game,2,484.32,Bank Transfer,West
+O0344,C020,11/04/2025,Home & Kitchen,Blender,3,107.76,Bank Transfer,North
+O0345,C001,03/04/2025,Home & Kitchen,Blender,1,269.62,Bank Transfer,East
+O0346,C038,31/03/2025,Electronics,Laptop,2,386.21,Credit Card,South
+O0347,C100,31/08/2024,Books,Comics,1,257.99,Bank Transfer,North
+O0348,C161,16/08/2024,Books,Non-fiction,1,270.97,Digital Wallet,South
+O0349,C010,27/12/2024,Home & Kitchen,Blender,2,174.94,Credit Card,North
+O0350,C172,02/05/2025,Toys,Action Figure,1,41.05,PayPal,East
+O0351,C130,02/12/2024,Home & Kitchen,Vacuum Cleaner,2,167.95,PayPal,South
+O0352,C101,30/05/2025,Electronics,Phone,4,134.77,Digital Wallet,South
+O0353,C203,23/06/2025,Clothing,Jacket,1,382.51,PayPal,North
+O0354,C247,04/09/2024,Clothing,Jacket,3,241.07,Bank Transfer,West
+O0355,C049,28/10/2024,Toys,Action Figure,3,180.95,Bank Transfer,East
+O0356,C236,06/10/2024,Home & Kitchen,Blender,1,417,Bank Transfer,North
+O0357,C120,05/10/2024,Books,Non-fiction,2,70.91,Digital Wallet,East
+O0358,C076,17/02/2025,Toys,Puzzle,3,469.79,Digital Wallet,North
+O0359,C040,14/01/2025,Home & Kitchen,Cookware Set,3,42.58,Bank Transfer,North
+O0360,C064,16/09/2024,Electronics,Laptop,4,291.49,Digital Wallet,North
+O0361,C105,03/01/2025,Electronics,Headphones,1,78.49,Bank Transfer,West
+O0362,C030,03/10/2024,Toys,Action Figure,1,108.8,Credit Card,West
+O0363,C005,09/11/2024,Toys,Action Figure,3,90.49,PayPal,East
+O0364,C154,19/01/2025,Toys,Board Game,3,335.95,PayPal,North
+O0365,C237,29/10/2024,Books,Fiction,2,185.83,Digital Wallet,North
+O0366,C040,28/06/2025,Toys,Action Figure,2,202.3,PayPal,North
+O0367,C014,17/07/2025,Clothing,Jacket,4,225.18,Bank Transfer,West
+O0368,C166,22/08/2024,Toys,Action Figure,4,236.71,PayPal,East
+O0369,C143,12/01/2025,Home & Kitchen,Cookware Set,1,376.33,Bank Transfer,West
+O0370,C225,02/06/2025,Home & Kitchen,Vacuum Cleaner,1,123.78,Credit Card,East
+O0371,C206,23/06/2025,Electronics,Laptop,3,198.11,Credit Card,West
+O0372,C179,21/06/2025,Home & Kitchen,Cookware Set,1,454.17,PayPal,East
+O0373,C134,22/02/2025,Electronics,Headphones,3,67.28,PayPal,East
+O0374,C200,31/08/2024,Home & Kitchen,Vacuum Cleaner,3,317.58,Bank Transfer,South
+O0375,C015,12/08/2024,Toys,Action Figure,2,78.24,Credit Card,East
+O0376,C244,03/04/2025,Toys,Board Game,3,313.84,Digital Wallet,South
+O0377,C164,18/02/2025,Toys,Puzzle,2,448.01,Bank Transfer,East
+O0378,C097,13/06/2025,Electronics,Laptop,1,84.32,Digital Wallet,South
+O0379,C183,29/07/2024,Clothing,Jeans,1,131.76,Bank Transfer,South
+O0380,C086,29/08/2024,Clothing,T-Shirt,1,26.43,PayPal,North
+O0381,C123,18/07/2025,Home & Kitchen,Blender,2,383.6,Credit Card,East
+O0382,C038,12/05/2025,Toys,Puzzle,2,177.62,Bank Transfer,South
+O0383,C228,18/06/2025,Clothing,T-Shirt,1,64.21,PayPal,West
+O0384,C184,23/10/2024,Electronics,Laptop,1,72.47,Digital Wallet,South
+O0385,C005,26/09/2024,Books,Comics,3,400.67,Digital Wallet,West
+O0386,C076,28/12/2024,Clothing,Jacket,1,122.33,PayPal,East
+O0387,C095,28/01/2025,Books,Fiction,1,362.82,Digital Wallet,West
+O0388,C036,26/01/2025,Books,Non-fiction,3,350.03,Bank Transfer,West
+O0389,C069,15/10/2024,Clothing,T-Shirt,2,133.38,PayPal,East
+O0390,C074,24/06/2025,Electronics,Headphones,4,98.98,Bank Transfer,East
+O0391,C200,26/12/2024,Toys,Puzzle,4,295.86,Credit Card,East
+O0392,C046,09/07/2025,Electronics,Phone,3,236.38,Digital Wallet,West
+O0393,C141,15/08/2024,Toys,Puzzle,3,85.14,Bank Transfer,North
+O0394,C217,25/09/2024,Clothing,Jeans,4,257.89,Digital Wallet,North
+O0395,C060,18/12/2024,Books,Fiction,1,18.87,Bank Transfer,East
+O0396,C100,24/07/2024,Clothing,Jeans,3,466.74,Credit Card,East
+O0397,C120,22/12/2024,Clothing,T-Shirt,4,351.36,Digital Wallet,North
+O0398,C106,03/11/2024,Home & Kitchen,Blender,1,356.55,PayPal,North
+O0399,C122,18/07/2025,Home & Kitchen,Cookware Set,1,292.38,PayPal,West
+O0400,C029,24/05/2025,Books,Comics,1,217.82,Credit Card,North
+O0401,C214,24/05/2025,Electronics,Laptop,2,467.84,PayPal,South
+O0402,C046,16/01/2025,Toys,Action Figure,3,230.91,Bank Transfer,North
+O0403,C110,11/11/2024,Home & Kitchen,Blender,1,492.57,Digital Wallet,North
+O0404,C057,04/01/2025,Electronics,Phone,4,71.08,Bank Transfer,West
+O0405,C055,20/04/2025,Electronics,Phone,1,436.25,Bank Transfer,North
+O0406,C149,03/05/2025,Toys,Action Figure,3,299.72,PayPal,South
+O0407,C137,24/05/2025,Home & Kitchen,Cookware Set,3,36.83,Credit Card,East
+O0408,C117,24/02/2025,Clothing,Jacket,2,403.4,Bank Transfer,South
+O0409,C063,07/04/2025,Electronics,Headphones,2,173.41,Digital Wallet,North
+O0410,C075,29/04/2025,Toys,Action Figure,4,273.32,Credit Card,West
+O0411,C210,29/01/2025,Books,Fiction,2,179.71,Bank Transfer,East
+O0412,C017,22/09/2024,Home & Kitchen,Vacuum Cleaner,3,371.38,Credit Card,East
+O0413,C108,05/10/2024,Electronics,Laptop,4,120.06,PayPal,North
+O0414,C152,16/11/2024,Toys,Action Figure,3,79.02,Digital Wallet,South
+O0415,C198,16/10/2024,Electronics,Laptop,1,254.2,Digital Wallet,South
+O0416,C177,15/08/2024,Books,Comics,1,458.27,Bank Transfer,South
+O0417,C150,05/03/2025,Clothing,T-Shirt,1,294.49,Bank Transfer,North
+O0418,C213,05/05/2025,Home & Kitchen,Blender,2,16.42,Credit Card,South
+O0419,C084,19/02/2025,Electronics,Laptop,1,97.24,Digital Wallet,West
+O0420,C118,16/08/2024,Toys,Board Game,1,82.84,Digital Wallet,North
+O0421,C189,10/05/2025,Clothing,Jeans,2,51.82,Digital Wallet,North
+O0422,C001,22/11/2024,Home & Kitchen,Cookware Set,4,256.08,Credit Card,East
+O0423,C215,15/08/2024,Books,Non-fiction,4,42.87,Bank Transfer,West
+O0424,C211,12/08/2024,Home & Kitchen,Blender,3,112.85,Bank Transfer,West
+O0425,C029,07/03/2025,Home & Kitchen,Vacuum Cleaner,2,110.52,Digital Wallet,North
+O0426,C030,25/01/2025,Books,Fiction,1,27.91,Bank Transfer,South
+O0427,C018,04/02/2025,Toys,Board Game,4,286.77,Digital Wallet,North
+O0428,C175,16/07/2025,Electronics,Laptop,1,390.01,Digital Wallet,East
+O0429,C220,20/06/2025,Books,Comics,2,266.95,Bank Transfer,South
+O0430,C166,15/02/2025,Books,Non-fiction,1,206.37,Bank Transfer,North
+O0431,C129,23/09/2024,Home & Kitchen,Vacuum Cleaner,3,86.07,Bank Transfer,East
+O0432,C103,15/08/2024,Electronics,Phone,4,432.27,Bank Transfer,East
+O0433,C202,06/02/2025,Toys,Action Figure,3,192.92,PayPal,North
+O0434,C124,24/08/2024,Clothing,Jacket,3,325.56,Bank Transfer,North
+O0435,C220,19/06/2025,Clothing,T-Shirt,1,22.44,PayPal,East
+O0436,C093,04/10/2024,Home & Kitchen,Cookware Set,4,360.83,Credit Card,South
+O0437,C247,19/08/2024,Books,Non-fiction,4,23.28,Digital Wallet,West
+O0438,C187,12/03/2025,Electronics,Headphones,3,123.23,PayPal,East
+O0439,C054,19/08/2024,Books,Non-fiction,3,19.66,Digital Wallet,South
+O0440,C067,12/04/2025,Electronics,Phone,1,401.96,PayPal,West
+O0441,C239,23/06/2025,Toys,Board Game,3,329.85,Credit Card,East
+O0442,C096,23/10/2024,Home & Kitchen,Vacuum Cleaner,4,58.73,Bank Transfer,South
+O0443,C120,27/12/2024,Toys,Board Game,4,363.91,Bank Transfer,South
+O0444,C196,08/09/2024,Electronics,Phone,2,416.81,Credit Card,West
+O0445,C213,24/07/2025,Clothing,Jacket,4,337.36,Bank Transfer,North
+O0446,C176,04/07/2025,Home & Kitchen,Vacuum Cleaner,2,153.64,Digital Wallet,North
+O0447,C007,02/03/2025,Toys,Action Figure,2,16.37,Digital Wallet,East
+O0448,C147,27/10/2024,Clothing,Jacket,1,111.86,PayPal,East
+O0449,C036,05/03/2025,Toys,Puzzle,4,98.9,Credit Card,South
+O0450,C002,11/03/2025,Clothing,T-Shirt,1,216.5,Bank Transfer,North
+O0451,C148,08/08/2024,Home & Kitchen,Vacuum Cleaner,1,410.55,Digital Wallet,West
+O0452,C130,21/03/2025,Toys,Puzzle,3,137.12,Credit Card,North
+O0453,C140,24/08/2024,Home & Kitchen,Cookware Set,3,299.24,Bank Transfer,West
+O0454,C166,02/01/2025,Books,Comics,4,315.83,Credit Card,South
+O0455,C226,05/04/2025,Home & Kitchen,Vacuum Cleaner,4,280.5,Credit Card,West
+O0456,C244,07/03/2025,Books,Comics,1,154.29,Digital Wallet,South
+O0457,C024,28/02/2025,Toys,Action Figure,2,384.17,PayPal,South
+O0458,C120,12/02/2025,Books,Comics,1,435.55,Credit Card,North
+O0459,C128,23/11/2024,Toys,Puzzle,3,448.33,Digital Wallet,South
+O0460,C115,22/07/2025,Clothing,Jeans,4,218.35,PayPal,East
+O0461,C040,02/11/2024,Toys,Board Game,1,141.65,Credit Card,East
+O0462,C103,11/10/2024,Clothing,Jacket,2,320.4,Digital Wallet,South
+O0463,C235,10/04/2025,Home & Kitchen,Vacuum Cleaner,1,78.28,Credit Card,South
+O0464,C186,28/04/2025,Toys,Action Figure,2,492.36,PayPal,South
+O0465,C215,23/11/2024,Toys,Action Figure,1,94.12,Digital Wallet,North
+O0466,C146,24/10/2024,Electronics,Phone,1,19.01,Credit Card,East
+O0467,C100,04/11/2024,Clothing,Jacket,4,67.7,Bank Transfer,North
+O0468,C017,24/12/2024,Books,Comics,1,144.29,Digital Wallet,East
+O0469,C122,12/09/2024,Books,Fiction,1,329.2,Bank Transfer,East
+O0470,C106,10/04/2025,Books,Fiction,4,111.15,Credit Card,South
+O0471,C057,31/03/2025,Books,Non-fiction,2,77.07,Bank Transfer,West
+O0472,C168,17/11/2024,Clothing,Jeans,3,438.21,PayPal,East
+O0473,C249,17/01/2025,Home & Kitchen,Vacuum Cleaner,2,304.25,Digital Wallet,West
+O0474,C173,23/11/2024,Clothing,Jeans,1,95.93,Credit Card,East
+O0475,C220,19/07/2025,Clothing,Jeans,1,215.2,Credit Card,East
+O0476,C064,11/05/2025,Books,Fiction,2,264.27,PayPal,North
+O0477,C107,22/07/2025,Electronics,Laptop,2,91.48,Bank Transfer,West
+O0478,C036,21/08/2024,Clothing,T-Shirt,1,50.57,Digital Wallet,East
+O0479,C149,27/07/2024,Clothing,T-Shirt,3,130.22,Bank Transfer,West
+O0480,C164,17/01/2025,Books,Non-fiction,3,151.46,Bank Transfer,North
+O0481,C232,22/03/2025,Electronics,Laptop,1,363.55,Bank Transfer,South
+O0482,C055,27/02/2025,Clothing,Jacket,3,475.16,Digital Wallet,North
+O0483,C150,31/08/2024,Electronics,Laptop,3,477.5,Bank Transfer,West
+O0484,C036,21/08/2024,Home & Kitchen,Vacuum Cleaner,1,247.04,Credit Card,North
+O0485,C227,17/02/2025,Books,Fiction,3,138.51,Digital Wallet,East
+O0486,C190,14/10/2024,Books,Non-fiction,4,35.2,Credit Card,West
+O0487,C226,05/02/2025,Electronics,Headphones,3,302.45,PayPal,East
+O0488,C245,03/11/2024,Toys,Board Game,1,387.75,Credit Card,West
+O0489,C017,13/09/2024,Toys,Board Game,1,46.82,Digital Wallet,North
+O0490,C171,21/07/2025,Clothing,T-Shirt,1,252.79,Bank Transfer,East
+O0491,C039,06/12/2024,Home & Kitchen,Vacuum Cleaner,4,223.07,Digital Wallet,South
+O0492,C229,01/07/2025,Clothing,Jacket,3,411.36,Bank Transfer,North
+O0493,C222,19/08/2024,Electronics,Phone,4,350.4,PayPal,East
+O0494,C019,30/06/2025,Books,Comics,2,299.21,Bank Transfer,South
+O0495,C049,26/10/2024,Toys,Action Figure,1,54.88,PayPal,East
+O0496,C057,14/12/2024,Toys,Board Game,1,397.11,PayPal,West
+O0497,C012,11/11/2024,Toys,Action Figure,3,265.44,Digital Wallet,East
+O0498,C083,23/09/2024,Toys,Action Figure,2,479.5,Bank Transfer,East
+O0499,C081,10/01/2025,Books,Fiction,4,323.09,Digital Wallet,East
+O0500,C208,12/06/2025,Electronics,Laptop,3,364.81,Digital Wallet,North
+O0501,C210,19/02/2025,Toys,Board Game,2,490.48,Digital Wallet,South
+O0502,C059,23/04/2025,Electronics,Headphones,1,326.87,Bank Transfer,South
+O0503,C026,18/11/2024,Toys,Action Figure,2,35.28,Bank Transfer,South
+O0504,C016,18/03/2025,Clothing,T-Shirt,3,31.64,Credit Card,South
+O0505,C026,02/06/2025,Electronics,Laptop,3,499.68,Digital Wallet,West
+O0506,C135,03/04/2025,Clothing,Jeans,1,241.87,PayPal,West
+O0507,C007,14/02/2025,Toys,Action Figure,2,69.06,Bank Transfer,North
+O0508,C072,27/07/2024,Clothing,Jacket,1,104.37,PayPal,East
+O0509,C221,09/04/2025,Books,Comics,2,216.66,Bank Transfer,East
+O0510,C116,06/06/2025,Clothing,Jeans,2,375.08,Digital Wallet,East
+O0511,C187,24/02/2025,Home & Kitchen,Vacuum Cleaner,3,233.02,Bank Transfer,South
+O0512,C014,17/11/2024,Clothing,Jeans,2,325.83,Digital Wallet,South
+O0513,C108,20/07/2025,Home & Kitchen,Cookware Set,3,188.7,PayPal,West
+O0514,C131,07/04/2025,Home & Kitchen,Cookware Set,4,245.72,Digital Wallet,East
+O0515,C218,02/09/2024,Home & Kitchen,Blender,1,269.83,Bank Transfer,West
+O0516,C039,23/07/2025,Home & Kitchen,Blender,3,208.2,Digital Wallet,North
+O0517,C004,30/06/2025,Home & Kitchen,Vacuum Cleaner,3,403.95,Credit Card,East
+O0518,C141,14/09/2024,Books,Comics,1,334.21,Digital Wallet,West
+O0519,C237,03/11/2024,Clothing,T-Shirt,2,264.88,Digital Wallet,East
+O0520,C194,06/09/2024,Clothing,T-Shirt,2,439.57,PayPal,South
+O0521,C034,04/07/2025,Electronics,Headphones,3,236.35,PayPal,South
+O0522,C013,03/09/2024,Electronics,Phone,2,10.12,Bank Transfer,East
+O0523,C096,08/05/2025,Books,Fiction,1,198.14,PayPal,North
+O0524,C046,23/02/2025,Toys,Puzzle,3,44.31,Bank Transfer,West
+O0525,C241,22/09/2024,Books,Comics,4,35.82,PayPal,East
+O0526,C236,06/11/2024,Home & Kitchen,Cookware Set,1,28.42,Credit Card,North
+O0527,C236,10/11/2024,Toys,Puzzle,1,294.57,Credit Card,South
+O0528,C158,15/03/2025,Books,Fiction,3,205.16,Credit Card,West
+O0529,C084,13/10/2024,Books,Fiction,1,174.82,Digital Wallet,North
+O0530,C177,28/04/2025,Electronics,Laptop,1,368.81,Credit Card,East
+O0531,C120,04/12/2024,Home & Kitchen,Cookware Set,3,238.98,Bank Transfer,South
+O0532,C146,11/10/2024,Toys,Board Game,2,427.88,Digital Wallet,South
+O0533,C176,16/04/2025,Electronics,Laptop,2,298.66,PayPal,West
+O0534,C207,27/03/2025,Home & Kitchen,Vacuum Cleaner,1,456.07,PayPal,North
+O0535,C121,20/06/2025,Home & Kitchen,Cookware Set,1,63.64,PayPal,South
+O0536,C187,03/11/2024,Toys,Action Figure,4,70.97,Bank Transfer,West
+O0537,C229,05/02/2025,Toys,Board Game,2,401.01,Credit Card,West
+O0538,C039,29/01/2025,Electronics,Phone,3,298.39,PayPal,West
+O0539,C088,29/10/2024,Home & Kitchen,Blender,4,443.26,Credit Card,East
+O0540,C226,10/07/2025,Books,Fiction,3,452.82,Bank Transfer,East
+O0541,C004,11/07/2025,Home & Kitchen,Cookware Set,1,374.24,Credit Card,East
+O0542,C093,17/06/2025,Home & Kitchen,Vacuum Cleaner,3,206.77,PayPal,North
+O0543,C243,12/08/2024,Electronics,Laptop,3,122.98,Digital Wallet,South
+O0544,C107,28/08/2024,Books,Comics,1,68.97,Digital Wallet,North
+O0545,C169,27/03/2025,Home & Kitchen,Cookware Set,2,198.2,PayPal,South
+O0546,C120,04/01/2025,Clothing,Jeans,1,479.06,PayPal,West
+O0547,C054,11/06/2025,Toys,Board Game,2,402.38,Bank Transfer,West
+O0548,C009,08/11/2024,Toys,Action Figure,3,116,PayPal,South
+O0549,C241,10/08/2024,Toys,Puzzle,3,302.66,Bank Transfer,East
+O0550,C163,25/07/2024,Electronics,Headphones,1,137.51,Credit Card,North
+O0551,C145,30/11/2024,Toys,Action Figure,2,250.68,PayPal,South
+O0552,C227,19/05/2025,Clothing,Jeans,4,449.74,Bank Transfer,North
+O0553,C125,12/09/2024,Clothing,Jacket,2,315.24,Bank Transfer,North
+O0554,C068,28/03/2025,Toys,Board Game,3,27.08,Credit Card,West
+O0555,C011,02/11/2024,Clothing,Jacket,2,431.46,Bank Transfer,West
+O0556,C123,24/09/2024,Toys,Puzzle,1,201.67,Bank Transfer,East
+O0557,C195,07/05/2025,Electronics,Laptop,4,243.57,Digital Wallet,North
+O0558,C170,11/01/2025,Clothing,Jacket,1,427.57,Credit Card,North
+O0559,C025,23/02/2025,Books,Non-fiction,1,171.24,Credit Card,North
+O0560,C226,24/04/2025,Electronics,Laptop,1,370.25,Credit Card,East
+O0561,C038,06/01/2025,Books,Fiction,4,133.8,PayPal,West
+O0562,C176,26/02/2025,Home & Kitchen,Cookware Set,4,350.9,Bank Transfer,West
+O0563,C037,27/07/2024,Books,Fiction,2,270.98,PayPal,East
+O0564,C028,05/09/2024,Electronics,Phone,4,63.64,Bank Transfer,South
+O0565,C114,22/08/2024,Clothing,T-Shirt,1,495.82,Credit Card,East
+O0566,C062,01/07/2025,Books,Comics,4,442.62,Bank Transfer,West
+O0567,C067,18/04/2025,Clothing,T-Shirt,1,454.19,Bank Transfer,East
+O0568,C040,10/07/2025,Clothing,Jeans,4,334.43,PayPal,North
+O0569,C033,19/09/2024,Electronics,Headphones,3,433.6,Bank Transfer,North
+O0570,C080,20/02/2025,Clothing,T-Shirt,2,265.42,Credit Card,North
+O0571,C059,06/08/2024,Toys,Puzzle,4,130.19,Bank Transfer,North
+O0572,C013,13/06/2025,Clothing,Jacket,3,88.6,Credit Card,West
+O0573,C181,14/12/2024,Books,Fiction,3,126.96,PayPal,North
+O0574,C155,07/03/2025,Clothing,Jacket,2,61.86,Digital Wallet,South
+O0575,C133,23/02/2025,Toys,Board Game,2,102.72,Digital Wallet,South
+O0576,C249,19/09/2024,Home & Kitchen,Blender,3,481.04,PayPal,West
+O0577,C170,06/01/2025,Home & Kitchen,Cookware Set,3,440.75,Credit Card,South
+O0578,C181,11/09/2024,Books,Comics,2,411.77,Bank Transfer,North
+O0579,C082,09/08/2024,Home & Kitchen,Vacuum Cleaner,2,455.26,Bank Transfer,East
+O0580,C077,20/11/2024,Books,Non-fiction,4,282.53,PayPal,East
+O0581,C194,12/12/2024,Books,Fiction,1,136.76,Bank Transfer,South
+O0582,C155,08/07/2025,Clothing,Jeans,4,51.21,PayPal,West
+O0583,C104,21/07/2025,Electronics,Headphones,1,284.32,Bank Transfer,West
+O0584,C192,29/05/2025,Toys,Action Figure,3,194.58,PayPal,West
+O0585,C240,23/06/2025,Clothing,Jeans,4,411.15,PayPal,East
+O0586,C199,08/08/2024,Electronics,Laptop,2,148.84,Digital Wallet,North
+O0587,C226,08/07/2025,Toys,Action Figure,2,221.8,PayPal,North
+O0588,C079,09/12/2024,Home & Kitchen,Cookware Set,3,202.15,Credit Card,North
+O0589,C022,13/10/2024,Clothing,Jacket,2,379.31,PayPal,West
+O0590,C228,14/04/2025,Clothing,Jeans,4,95.14,Digital Wallet,North
+O0591,C192,28/10/2024,Clothing,T-Shirt,2,474.18,Credit Card,West
+O0592,C145,09/04/2025,Clothing,Jacket,1,387.78,PayPal,West
+O0593,C022,01/09/2024,Clothing,Jacket,2,242.05,Digital Wallet,East
+O0594,C210,08/12/2024,Books,Non-fiction,2,46.6,Digital Wallet,East
+O0595,C175,22/05/2025,Home & Kitchen,Cookware Set,2,495.17,Bank Transfer,West
+O0596,C227,26/02/2025,Electronics,Headphones,1,228.52,Bank Transfer,East
+O0597,C007,02/07/2025,Clothing,Jeans,4,381.55,Digital Wallet,West
+O0598,C134,28/06/2025,Electronics,Headphones,1,20.84,PayPal,South
+O0599,C179,28/12/2024,Electronics,Laptop,3,249.44,Bank Transfer,East
+O0600,C026,22/03/2025,Clothing,T-Shirt,3,344.81,Digital Wallet,South
+O0601,C029,11/05/2025,Books,Comics,2,144.08,PayPal,West
+O0602,C141,22/09/2024,Toys,Action Figure,4,218.83,Digital Wallet,East
+O0603,C119,18/07/2025,Books,Comics,1,90.18,Bank Transfer,West
+O0604,C116,20/07/2025,Clothing,Jacket,1,349.9,Digital Wallet,South
+O0605,C206,23/10/2024,Clothing,Jacket,4,50.37,Bank Transfer,South
+O0606,C027,24/06/2025,Toys,Action Figure,4,330.71,Credit Card,North
+O0607,C236,25/09/2024,Electronics,Headphones,3,475.92,Credit Card,North
+O0608,C021,30/05/2025,Books,Fiction,4,221.84,PayPal,North
+O0609,C187,03/06/2025,Clothing,T-Shirt,3,215.67,PayPal,West
+O0610,C185,30/09/2024,Home & Kitchen,Blender,4,204.82,Bank Transfer,West
+O0611,C001,01/07/2025,Electronics,Phone,1,492.15,Bank Transfer,North
+O0612,C015,31/12/2024,Electronics,Headphones,2,448.11,Digital Wallet,East
+O0613,C064,02/08/2024,Electronics,Headphones,2,114.42,Bank Transfer,South
+O0614,C012,01/10/2024,Electronics,Phone,1,329.32,PayPal,South
+O0615,C208,06/05/2025,Clothing,Jacket,2,433.54,Digital Wallet,East
+O0616,C174,18/07/2025,Home & Kitchen,Cookware Set,3,484.41,Credit Card,East
+O0617,C053,30/11/2024,Books,Non-fiction,1,435.63,PayPal,South
+O0618,C174,23/05/2025,Home & Kitchen,Vacuum Cleaner,4,387.75,Credit Card,North
+O0619,C131,20/07/2025,Electronics,Laptop,2,382.9,Bank Transfer,West
+O0620,C181,30/12/2024,Toys,Board Game,1,74.31,Credit Card,North
+O0621,C131,31/05/2025,Clothing,T-Shirt,4,461.22,Bank Transfer,West
+O0622,C153,10/04/2025,Home & Kitchen,Vacuum Cleaner,4,400.3,Credit Card,North
+O0623,C017,24/06/2025,Clothing,T-Shirt,2,67.48,Bank Transfer,East
+O0624,C228,05/05/2025,Electronics,Phone,2,345.93,Digital Wallet,North
+O0625,C249,03/06/2025,Clothing,Jeans,1,108.26,Credit Card,South
+O0626,C246,28/10/2024,Toys,Puzzle,4,41.46,Bank Transfer,North
+O0627,C088,04/11/2024,Home & Kitchen,Blender,1,141.81,PayPal,West
+O0628,C205,23/09/2024,Toys,Board Game,4,162.08,Bank Transfer,South
+O0629,C018,25/05/2025,Electronics,Headphones,1,15.69,Digital Wallet,North
+O0630,C110,22/04/2025,Electronics,Laptop,2,202.32,PayPal,North
+O0631,C032,03/09/2024,Home & Kitchen,Vacuum Cleaner,3,304.01,Bank Transfer,East
+O0632,C033,19/12/2024,Electronics,Headphones,3,350.54,Digital Wallet,West
+O0633,C136,27/06/2025,Books,Fiction,4,392.13,Digital Wallet,West
+O0634,C088,08/08/2024,Books,Fiction,3,245.45,Bank Transfer,North
+O0635,C121,22/06/2025,Toys,Board Game,1,128.6,PayPal,North
+O0636,C080,22/01/2025,Electronics,Laptop,2,79.82,PayPal,West
+O0637,C148,18/10/2024,Clothing,Jacket,2,312.9,Bank Transfer,East
+O0638,C160,09/10/2024,Home & Kitchen,Blender,1,284.23,Credit Card,North
+O0639,C002,06/06/2025,Home & Kitchen,Cookware Set,2,169.97,Digital Wallet,East
+O0640,C205,15/07/2025,Electronics,Phone,1,53.05,Credit Card,South
+O0641,C116,18/01/2025,Books,Non-fiction,2,26.27,Bank Transfer,North
+O0642,C194,06/12/2024,Electronics,Phone,2,204.49,Digital Wallet,North
+O0643,C174,19/11/2024,Toys,Action Figure,2,288.1,Digital Wallet,West
+O0644,C226,07/06/2025,Electronics,Laptop,2,402.29,Bank Transfer,West
+O0645,C049,28/05/2025,Electronics,Headphones,2,92.07,PayPal,South
+O0646,C195,27/06/2025,Books,Fiction,4,321.85,PayPal,East
+O0647,C006,20/10/2024,Home & Kitchen,Cookware Set,3,25.48,Bank Transfer,South
+O0648,C160,18/10/2024,Electronics,Phone,1,35.47,Bank Transfer,East
+O0649,C008,02/08/2024,Books,Non-fiction,1,357.44,Bank Transfer,North
+O0650,C062,06/04/2025,Home & Kitchen,Cookware Set,4,359.9,PayPal,West
+O0651,C127,07/10/2024,Toys,Action Figure,4,176.33,PayPal,West
+O0652,C208,25/12/2024,Electronics,Phone,3,333.8,Digital Wallet,North
+O0653,C022,28/11/2024,Books,Non-fiction,4,302.76,Bank Transfer,East
+O0654,C127,09/11/2024,Books,Non-fiction,2,245.64,Bank Transfer,South
+O0655,C014,24/06/2025,Home & Kitchen,Cookware Set,1,90.36,PayPal,West
+O0656,C012,19/08/2024,Home & Kitchen,Blender,3,365.17,Bank Transfer,East
+O0657,C025,20/05/2025,Home & Kitchen,Vacuum Cleaner,3,328.64,Bank Transfer,South
+O0658,C147,09/11/2024,Home & Kitchen,Cookware Set,1,311.71,Digital Wallet,West
+O0659,C173,07/12/2024,Home & Kitchen,Blender,3,240.39,PayPal,South
+O0660,C053,30/03/2025,Toys,Puzzle,4,437.2,Bank Transfer,South
+O0661,C044,06/02/2025,Books,Non-fiction,3,31.39,Credit Card,West
+O0662,C211,26/12/2024,Books,Fiction,2,20.22,Digital Wallet,South
+O0663,C056,13/04/2025,Home & Kitchen,Vacuum Cleaner,2,172.83,PayPal,West
+O0664,C156,16/06/2025,Books,Fiction,1,251.71,Bank Transfer,West
+O0665,C189,17/02/2025,Toys,Board Game,2,207.6,Bank Transfer,North
+O0666,C207,29/11/2024,Home & Kitchen,Vacuum Cleaner,1,215.02,Credit Card,North
+O0667,C049,23/07/2025,Clothing,Jacket,1,421.82,Digital Wallet,South
+O0668,C186,03/08/2024,Toys,Puzzle,2,480.78,Bank Transfer,East
+O0669,C037,06/09/2024,Books,Fiction,1,424.66,Credit Card,North
+O0670,C126,29/06/2025,Home & Kitchen,Blender,4,370.32,PayPal,West
+O0671,C050,02/11/2024,Home & Kitchen,Cookware Set,4,257.37,Bank Transfer,South
+O0672,C105,01/10/2024,Home & Kitchen,Blender,1,261.86,Bank Transfer,North
+O0673,C098,06/03/2025,Home & Kitchen,Cookware Set,4,24.4,Credit Card,North
+O0674,C079,04/11/2024,Clothing,Jeans,4,307.03,Digital Wallet,East
+O0675,C039,07/08/2024,Books,Fiction,2,398.55,Bank Transfer,East
+O0676,C186,04/09/2024,Books,Fiction,2,496.15,Bank Transfer,West
+O0677,C131,12/03/2025,Home & Kitchen,Blender,2,185.98,Digital Wallet,North
+O0678,C021,08/01/2025,Electronics,Phone,1,238.25,Digital Wallet,North
+O0679,C026,05/12/2024,Clothing,Jacket,3,125.54,PayPal,South
+O0680,C222,02/05/2025,Toys,Puzzle,4,208.6,Digital Wallet,West
+O0681,C014,25/05/2025,Books,Fiction,3,319.94,Bank Transfer,South
+O0682,C037,22/11/2024,Clothing,Jacket,2,261.18,Bank Transfer,West
+O0683,C041,09/01/2025,Electronics,Headphones,1,43.88,PayPal,West
+O0684,C125,16/03/2025,Toys,Board Game,2,57.72,Bank Transfer,North
+O0685,C231,07/02/2025,Clothing,T-Shirt,3,300.53,Digital Wallet,North
+O0686,C231,06/09/2024,Toys,Puzzle,1,334.68,PayPal,East
+O0687,C089,20/12/2024,Home & Kitchen,Blender,2,329.54,Bank Transfer,North
+O0688,C163,08/07/2025,Home & Kitchen,Vacuum Cleaner,1,205.53,Bank Transfer,East
+O0689,C193,04/03/2025,Toys,Board Game,1,14.42,Bank Transfer,North
+O0690,C164,05/10/2024,Home & Kitchen,Cookware Set,4,303.37,Bank Transfer,South
+O0691,C031,30/10/2024,Home & Kitchen,Vacuum Cleaner,1,126.14,Credit Card,South
+O0692,C118,10/08/2024,Home & Kitchen,Blender,3,443.02,PayPal,East
+O0693,C093,25/04/2025,Electronics,Phone,2,172.14,Digital Wallet,South
+O0694,C105,09/01/2025,Toys,Board Game,2,338,Bank Transfer,South
+O0695,C008,24/07/2024,Toys,Board Game,1,230.22,Bank Transfer,South
+O0696,C057,10/02/2025,Books,Comics,3,474.81,PayPal,South
+O0697,C028,18/07/2025,Books,Non-fiction,4,186.03,PayPal,South
+O0698,C175,02/06/2025,Home & Kitchen,Cookware Set,1,306.71,Credit Card,East
+O0699,C049,18/02/2025,Electronics,Laptop,1,271.42,PayPal,South
+O0700,C056,16/04/2025,Books,Comics,1,355.64,Bank Transfer,West
+O0701,C134,29/04/2025,Books,Non-fiction,4,433.47,Bank Transfer,West
+O0702,C148,24/07/2025,Clothing,T-Shirt,4,274.55,Credit Card,South
+O0703,C201,08/05/2025,Home & Kitchen,Blender,2,493.48,Digital Wallet,South
+O0704,C026,06/05/2025,Toys,Board Game,3,123.25,PayPal,West
+O0705,C035,10/04/2025,Toys,Action Figure,1,323.6,Bank Transfer,North
+O0706,C059,08/10/2024,Toys,Puzzle,2,98.21,Digital Wallet,East
+O0707,C179,12/12/2024,Toys,Puzzle,1,60.62,Bank Transfer,South
+O0708,C020,07/01/2025,Books,Fiction,2,347.22,PayPal,East
+O0709,C043,20/08/2024,Electronics,Laptop,1,245.15,Digital Wallet,East
+O0710,C050,07/04/2025,Electronics,Laptop,2,476.39,Credit Card,South
+O0711,C223,16/07/2025,Clothing,Jacket,1,435.28,Digital Wallet,West
+O0712,C178,29/11/2024,Clothing,Jacket,4,262.64,PayPal,South
+O0713,C084,23/03/2025,Clothing,T-Shirt,3,336.76,Digital Wallet,East
+O0714,C045,22/11/2024,Toys,Action Figure,3,24.69,PayPal,East
+O0715,C234,07/04/2025,Home & Kitchen,Cookware Set,4,355.29,Digital Wallet,North
+O0716,C242,18/06/2025,Clothing,Jeans,4,339.98,Credit Card,East
+O0717,C008,10/09/2024,Clothing,Jacket,1,56.01,PayPal,South
+O0718,C005,29/04/2025,Clothing,Jacket,1,227.44,Digital Wallet,South
+O0719,C034,08/07/2025,Books,Non-fiction,3,96.8,PayPal,East
+O0720,C218,17/11/2024,Books,Non-fiction,1,420.68,Bank Transfer,North
+O0721,C114,05/02/2025,Electronics,Laptop,3,344.79,Digital Wallet,East
+O0722,C136,21/11/2024,Books,Non-fiction,2,312.75,Digital Wallet,North
+O0723,C076,08/04/2025,Electronics,Headphones,3,289.6,Bank Transfer,East
+O0724,C046,29/12/2024,Electronics,Headphones,3,466.16,Bank Transfer,South
+O0725,C147,27/11/2024,Books,Fiction,4,341.49,Bank Transfer,East
+O0726,C053,27/12/2024,Home & Kitchen,Cookware Set,3,332.85,Digital Wallet,South
+O0727,C090,20/04/2025,Toys,Board Game,4,329.1,Digital Wallet,North
+O0728,C242,15/11/2024,Electronics,Phone,2,332.34,Bank Transfer,North
+O0729,C073,24/02/2025,Electronics,Phone,4,33.62,Bank Transfer,West
+O0730,C176,11/09/2024,Electronics,Laptop,1,209.38,PayPal,South
+O0731,C077,06/10/2024,Home & Kitchen,Blender,1,393.37,Digital Wallet,North
+O0732,C068,03/01/2025,Home & Kitchen,Cookware Set,3,371.84,Credit Card,East
+O0733,C238,08/04/2025,Clothing,T-Shirt,2,208.03,Bank Transfer,East
+O0734,C198,24/07/2025,Clothing,Jeans,4,337.12,Credit Card,North
+O0735,C233,18/12/2024,Electronics,Phone,2,383.52,Bank Transfer,North
+O0736,C075,13/04/2025,Clothing,Jacket,3,223.44,PayPal,West
+O0737,C054,10/05/2025,Electronics,Phone,1,68.9,Digital Wallet,North
+O0738,C143,09/07/2025,Books,Comics,3,12.82,PayPal,West
+O0739,C199,29/09/2024,Electronics,Phone,1,189.57,Bank Transfer,North
+O0740,C060,20/03/2025,Electronics,Phone,3,350.78,Digital Wallet,East
+O0741,C049,02/03/2025,Home & Kitchen,Blender,1,229.86,Bank Transfer,South
+O0742,C172,17/11/2024,Clothing,T-Shirt,4,192.89,Credit Card,South
+O0743,C099,28/12/2024,Books,Non-fiction,2,45.87,PayPal,South
+O0744,C074,21/02/2025,Books,Comics,4,337.42,Bank Transfer,South
+O0745,C003,12/06/2025,Electronics,Phone,2,237.11,PayPal,North
+O0746,C048,24/07/2024,Toys,Action Figure,1,433.03,Bank Transfer,East
+O0747,C117,19/11/2024,Books,Non-fiction,2,244.8,PayPal,South
+O0748,C012,12/11/2024,Home & Kitchen,Vacuum Cleaner,1,177.21,Credit Card,South
+O0749,C037,13/10/2024,Toys,Action Figure,1,205.42,Digital Wallet,North
+O0750,C015,06/01/2025,Home & Kitchen,Blender,3,271.47,PayPal,West
