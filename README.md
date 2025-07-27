@@ -1,6 +1,11 @@
 ## E-Commerce-Sales-Analysis
 ## Table of Content
-
+-[The Problem](#the-problem)
+-[objectives](#objectives)
+-[Import and Clean Data](#import-and-clean-data)
+-[Create Pivot Table](#create-pivot-table)
+-[Key Insights](#keys-insights)
+-[Actionable Recommendations](#actionable-recommendations)
 
 ### Project Title: “Analyzing E-Commerce Sales Performance to Drive Strategic Decisions”
 
@@ -17,7 +22,7 @@ In this project, l explore the e-commerce transactional dataset to analyze custo
 
 Through detailed exploratory data analysis (EDA), the project aims to highlight high-performing product segments, seasonal sales trends, and payment preferences. By using Excel for pivot-based EDA and Power BI for interactive dashboards, this project demonstrates both spreadsheet-based analysis and modern data visualization capabilities suitable for business intelligence roles.
 
-### Import & Clean Data
+### Import and Clean Data
 #### In Excel:
 I loaded the ecommerce.csv file into Excel.
 
@@ -76,7 +81,7 @@ Key metrics are calculated as follows using New Measure:
 
 <img width="602" height="319" alt="power bi measure" src="https://github.com/user-attachments/assets/3eb54abb-ed37-4ff1-a2c8-b9147c7cd5eb" />
 
-### Key Insights from the Analysis:
+### Key Insights
 1. Total Revenue Generated:  £463,900.97
    
 <img width="192" height="151" alt="card total revenue" src="https://github.com/user-attachments/assets/bddb979c-a2b8-494b-82aa-70689e42dd7d" />
