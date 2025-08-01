@@ -142,3 +142,10 @@ Based on this analysis:
 Explore the interactive and dynamic dashboard in [Power BI here.](https://app.powerbi.com/groups/me/reports/fba9536d-930a-4e63-a07f-cf9e1ed47c2b/daa4632cc469a276b265?experience=power-bi)
 
 ---
+### Meet the Analyst:
+👋 I’m **Sunday Tanimowo**, an Electrical Engineering grad turned Data Analyst passionate about solving problems with data. I’ve worked across retail, e-commerce, HR, healthcare, and finance using Excel, SQL, Power BI, and Python to turn raw data into actionable insights.  I connect analysis with business goals to drive growth and efficiency.
+
+Let’s connect — whether it’s for collaboration, analytics support, or a data-driven chat. 
+
+[LinkedIn](https://www.linkedin.com/in/sundaytanimowo) | [Portfolio](https://tinyurl.com/aafvks7n)
+
